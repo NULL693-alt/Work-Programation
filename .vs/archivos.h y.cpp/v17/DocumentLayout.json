@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\nakan\\source\\repos\\archivos.h y.cpp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{72D8BF98-7FAD-4920-AC73-8702B4ABC606}|archivos.h y.cpp\\archivos.h y.cpp.vcxproj|C:\\Users\\nakan\\source\\repos\\archivos.h y.cpp\\archivos.h y.cpp\\Operaciones.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{72D8BF98-7FAD-4920-AC73-8702B4ABC606}|archivos.h y.cpp\\archivos.h y.cpp.vcxproj|solutionrelative:archivos.h y.cpp\\Operaciones.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{72D8BF98-7FAD-4920-AC73-8702B4ABC606}|archivos.h y.cpp\\archivos.h y.cpp.vcxproj|C:\\Users\\nakan\\source\\repos\\archivos.h y.cpp\\archivos.h y.cpp\\archivos.h y.cpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{72D8BF98-7FAD-4920-AC73-8702B4ABC606}|archivos.h y.cpp\\archivos.h y.cpp.vcxproj|solutionrelative:archivos.h y.cpp\\archivos.h y.cpp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{72D8BF98-7FAD-4920-AC73-8702B4ABC606}|archivos.h y.cpp\\archivos.h y.cpp.vcxproj|C:\\Users\\nakan\\source\\repos\\archivos.h y.cpp\\archivos.h y.cpp\\Operaciones.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{72D8BF98-7FAD-4920-AC73-8702B4ABC606}|archivos.h y.cpp\\archivos.h y.cpp.vcxproj|solutionrelative:archivos.h y.cpp\\Operaciones.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{72D8BF98-7FAD-4920-AC73-8702B4ABC606}|archivos.h y.cpp\\archivos.h y.cpp.vcxproj|C:\\Users\\nakan\\source\\repos\\archivos.h y.cpp\\archivos.h y.cpp\\Operaciones.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -32,33 +32,33 @@
               "RelativeDocumentMoniker": "archivos.h y.cpp\\Operaciones.cpp",
               "ToolTip": "C:\\Users\\nakan\\source\\repos\\archivos.h y.cpp\\archivos.h y.cpp\\Operaciones.cpp",
               "RelativeToolTip": "archivos.h y.cpp\\Operaciones.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-26T15:29:23.708Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "archivos.h y.cpp.cpp",
               "DocumentMoniker": "C:\\Users\\nakan\\source\\repos\\archivos.h y.cpp\\archivos.h y.cpp\\archivos.h y.cpp.cpp",
               "RelativeDocumentMoniker": "archivos.h y.cpp\\archivos.h y.cpp.cpp",
               "ToolTip": "C:\\Users\\nakan\\source\\repos\\archivos.h y.cpp\\archivos.h y.cpp\\archivos.h y.cpp.cpp",
               "RelativeToolTip": "archivos.h y.cpp\\archivos.h y.cpp.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-07-24T05:18:31.406Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Operaciones.h",
               "DocumentMoniker": "C:\\Users\\nakan\\source\\repos\\archivos.h y.cpp\\archivos.h y.cpp\\Operaciones.h",
               "RelativeDocumentMoniker": "archivos.h y.cpp\\Operaciones.h",
               "ToolTip": "C:\\Users\\nakan\\source\\repos\\archivos.h y.cpp\\archivos.h y.cpp\\Operaciones.h",
               "RelativeToolTip": "archivos.h y.cpp\\Operaciones.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-07-24T05:06:04.239Z",
               "EditorCaption": ""
