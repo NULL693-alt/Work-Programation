@@ -15,4 +15,9 @@ int multiplicacion(int x, int y){
     return x * y;
 }
 
+double division(int x, int y)
+{
+    return static_cast<double>(x) / y;
+}
+
 

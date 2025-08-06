@@ -13,5 +13,7 @@ int main(){
 
 	cout << "El resultado de la multiplicacion es: " << multiplicacion(x, y) << endl;
 
+	cout << "El resultado de la divison es: " << division(x, y) << endl;
+
 	return 0;
 }
